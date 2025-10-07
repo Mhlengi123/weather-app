@@ -119,8 +119,7 @@ Weather display screen
 
 Settings screen
 
-🎥 Demo Video
-https://img.youtube.com/vi/VIDEO_ID/0.jpg
+
 
 Click the image above to watch the demo video showing all features
 
@@ -191,9 +190,9 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 👨‍💻 Developer
 Your Name
 
-GitHub: @yourusername
+GitHub: Mhlengi123
 
-Email: your.email@example.com
+Email: mathonsimhlengi8@gmail.com
 
 Portfolio: yourportfolio.com
 
