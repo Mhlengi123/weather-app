@@ -171,6 +171,7 @@ Build and Run
 
 Open project in Android Studio
 
+ 
 Connect device or start emulator
 
 Click "Run" (▶️ button)
