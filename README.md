@@ -187,14 +187,23 @@ Open a Pull Request
 📝 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-👨‍💻 Developer
-Your Name
+👨‍💻 Developer Your Name Mhelngi Mathonsi
 
 GitHub: Mhlengi123
 
 Email: mathonsimhlengi8@gmail.com
 
-Portfolio: yourportfolio.com
+👨‍💻 Developer Your Name Sbonakaliso Madlopha
+
+GitHub: St10377944
+
+Email: st10377944@rcconnect.edu.za
+
+👨‍💻 Developer Your Name Njabulo
+
+GitHub: St10367349
+
+Email: st10367349@rcconnect.edu.za
 
 🙏 Acknowledgments
 OpenWeatherMap for providing reliable weather data API
