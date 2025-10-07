@@ -41,33 +41,13 @@ EncryptedSharedPreferences - Secure data storage
 
 Google Play Services - Location services
 
-📁 Project Structure
-text
-app/src/main/java/com/yourname/weatherbuddy/
-├── data/
-│   ├── model/           # Data classes (User, WeatherData, UserSettings)
-│   ├── remote/          # API services (Retrofit, ApiService)
-│   ├── repository/      # Data repositories (WeatherRepository, AuthRepository)
-│   └── local/           # Database (Room, DAOs)
-├── ui/
-│   ├── viewmodel/       # ViewModels (AuthViewModel, WeatherViewModel)
-│   ├── fragments/       # UI fragments (RegisterFragment, WeatherFragment)
-│   └── MainActivity.kt  # Main activity
-├── utils/               # Utility classes (EncryptionHelper)
-└── WeatherApplication.kt # Application class
-🔧 Installation & Setup
-Prerequisites
-Android Studio Arctic Fox or later
 
-Android SDK API 21+
-
-Kotlin 1.9.10+
 
 Steps to Run
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/weather-buddy.git
+git clone https:https://github.com/Mhlengi123/weather-app/blob/main/README.md
 cd weather-buddy
 Open in Android Studio
 
