@@ -47,7 +47,7 @@ Steps to Run
 Clone the repository
 
 bash
-git clone https:https://github.com/Mhlengi123/weather-app/blob/main/README.md
+git clone https:https: github.com/Mhlengi123/weather-app/blob/main/README.md
 cd weather-buddy
 Open in Android Studio
 
