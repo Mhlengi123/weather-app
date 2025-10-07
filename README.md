@@ -177,12 +177,6 @@ Click "Run" (▶️ button)
 
 Testing
 bash
-# Run all unit tests
-./gradlew test
-
-# Run specific test suite
-./gradlew test --tests "*.WeatherRepositoryTest"
-
 # Run instrumented tests
 ./gradlew connectedAndroidTest
 📱 Features Implementation
